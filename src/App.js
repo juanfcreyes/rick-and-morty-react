@@ -1,8 +1,8 @@
-import { PokemonsList } from "./components/PokemonsList";
+import { Pokedex } from "./components/Pokedex";
 
 const App = () => {
 	return (<div className="container mt-5">
-        <PokemonsList></PokemonsList>
+        <Pokedex></Pokedex>
     </div>);
 };
 

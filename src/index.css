@@ -1,0 +1,9 @@
+.center {
+    text-align: center;
+}
+
+.list-container {
+    height: calc(70vh);
+    overflow-y: auto;
+    overflow-x: hidden;
+}
