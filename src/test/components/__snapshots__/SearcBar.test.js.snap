@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test over SearchBar should show correctly  1`] = `
+<form
+  className="row"
+  onSubmit={[Function]}
+>
+  <div
+    className="col-10"
+  >
+    <input
+      className="form-control"
+      id="query"
+      onChange={[Function]}
+      placeholder="Insert a character name"
+      type="text"
+    />
+  </div>
+  <div
+    className="col-2"
+  >
+    <button
+      className="btn btn-dark mb-3"
+      type="submit"
+    >
+      Search
+    </button>
+  </div>
+</form>
+`;

@@ -1,8 +1,8 @@
-import { Pokedex } from "./components/Pokedex";
+import { Home } from "./components/Home";
 
 const App = () => {
 	return (<div className="container mt-5">
-        <Pokedex></Pokedex>
+        <Home></Home>
     </div>);
 };
 
